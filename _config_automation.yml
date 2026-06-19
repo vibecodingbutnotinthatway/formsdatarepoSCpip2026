@@ -38,10 +38,7 @@ cran_googlesheet:
 ###### GitHub ######
 refresh-github: yes
 github_repos: [
-  fhdsl/metricminer,
-  fhdsl/metricminer-dashboard,
-  jhudsl/OTTR_Template,
-  jhudsl/OTTR_Template_Website
+vibecodingbutnotinthatway/formsdatarepoSCpip2026
   ]
 github_googlesheet:
 
@@ -53,8 +50,7 @@ ga_googlesheet:
 ###### Google Forms ######
 refresh-googleforms: yes
 google_forms: [
-  1DQlUXC3ODKfDWDJJuUBO3azspchS-17xCacOfoWJvhI,
-  1XvE5YOL6lU-uew6jRTLhw-qxl8DD7T--2lsNEvgzMRs ]
+1pPj2aLG7cvf77rKW6d2sEmTrvdJFalXZSVVleWkBb5M]
 googleforms_googlesheet:
 
 ###### Slido ######
