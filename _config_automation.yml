@@ -38,7 +38,7 @@ cran_googlesheet:
 ###### GitHub ######
 refresh-github: yes
 github_repos: [
-vibecodingbutnotinthatway/formsdatarepoSCpip2026
+  vibecodingbutnotinthatway/formsdatarepoSCpip2026, 
   ]
 github_googlesheet:
 
@@ -50,7 +50,7 @@ ga_googlesheet:
 ###### Google Forms ######
 refresh-googleforms: yes
 google_forms: [
-1pPj2aLG7cvf77rKW6d2sEmTrvdJFalXZSVVleWkBb5M]
+  1pPj2aLG7cvf77rKW6d2sEmTrvdJFalXZSVVleWkBb5M,]
 googleforms_googlesheet:
 
 ###### Slido ######
