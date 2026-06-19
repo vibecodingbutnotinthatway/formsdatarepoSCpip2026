@@ -24,14 +24,14 @@ refresh-calendly: no
 calendly_googlesheet:
 
 ###### Citations ######
-refresh-citations: yes
+refresh-citations: no
 citation_papers: [
-  "https://scholar.google.com/scholar?cites=6140457238337460780",
-  "https://scholar.google.com/scholar?cites=15945159957067506879" ]
+
+]
 citation_googlesheet:
 
 ###### CRAN ######
-refresh-cran: yes
+refresh-cran: no
 cran_packages: [ metricminer, ottrpal ]
 cran_googlesheet:
 
