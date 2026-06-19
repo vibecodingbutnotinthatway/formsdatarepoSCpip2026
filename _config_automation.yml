@@ -43,7 +43,7 @@ github_repos: [
 github_googlesheet:
 
 ###### Google Analytics ######
-refresh-ga: yes
+refresh-ga: no
 ga_property_ids: [ 422671031, 422558989 ]
 ga_googlesheet:
 
@@ -59,7 +59,7 @@ drive_id: 1QcseQD2mz62Zl-JdyY63u1dC5aTSQC0R
 slido_googlesheet:
 
 ###### YouTube ######
-refresh-youtube: yes
+refresh-youtube: no
 video_ids: [ XN_QPRrJZAw, YkYnni-WuaQ ]
 youtube_googlesheet:
 
